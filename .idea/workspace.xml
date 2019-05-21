@@ -44,15 +44,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/web.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/JobsController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -97,11 +88,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="570">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="390">
+                <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -117,6 +120,9 @@
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -147,6 +153,7 @@
         <option value="$PROJECT_DIR$/app/Http/Requests/UpdateJobRequest.php" />
         <option value="$PROJECT_DIR$/resources/views/partials/menu.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -273,42 +280,6 @@
               <item name="q2" type="b2602c69:ProjectViewProjectNode" />
               <item name="q2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="q2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="q2" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="q2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="q2" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="q2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="q2" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="q2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="q2" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="q2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="q2" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="q2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="q2" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="auth" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -355,12 +326,12 @@
       <workItem from="1556521444340" duration="1577000" />
       <workItem from="1557122595533" duration="642000" />
       <workItem from="1557167506338" duration="226000" />
-      <workItem from="1558423036812" duration="2266000" />
+      <workItem from="1558423036812" duration="2835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7900000" />
+    <option name="totallyTimeSpent" value="8469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -588,8 +559,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="570">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
