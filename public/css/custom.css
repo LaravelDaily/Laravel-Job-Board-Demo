@@ -1,0 +1,39 @@
+.ck-editor__editable,
+textarea {
+    min-height: 150px;
+}
+
+.datatable {
+    width: 100% !important;
+}
+
+.dataTables_length,
+.dataTables_filter,
+.dt-buttons {
+    margin-bottom: 0.333em;
+}
+
+.dt-buttons .btn {
+    margin-left: 0.333em;
+    border-radius: 0;
+}
+
+.table.datatable {
+    box-sizing: border-box;
+    border-collapse: collapse;
+}
+
+.dataTables_wrapper.no-footer .dataTables_scrollBody {
+    border-bottom: inherit;
+}
+
+table.dataTable thead .sorting,
+table.dataTable thead .sorting_asc,
+table.dataTable thead .sorting_desc {
+    background-image: none;
+}
+
+.select2 {
+    max-width: 100%;
+    width: 100%;
+}
