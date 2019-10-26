@@ -2,7 +2,7 @@
 
 Simple project with job board like Upwork (but with just core features), with employers and candidates. 
 
-Partly generated with our [QuickAdminPanel 2019](https://2019.quickadminpanel.com) and then live-coded within 1 hour in this live-coding video.
+Partly generated with our [QuickAdminPanel 2019](https://2019.quickadminpanel.com) and then live-coded within 1 hour in [this live-coding video](https://www.youtube.com/watch?v=Pi4u1xO8FOw).
 
 ![Laravel Job Board screenshot](https://laraveldaily.com/wp-content/uploads/2019/05/Screen-Shot-2019-05-21-at-11.27.33-AM.png)
 
